@@ -1,0 +1,7 @@
+var_1=True
+var_2=True  
+var_3=True
+maquina= var_3 and (var_1 or var_2)
+print(maquina)
+
+#DANNA CIFUENTES,LAURA SUAREZ
