@@ -1,0 +1,52 @@
+# ejercicio 1
+num_1=6
+num_2=8
+num_3=num_1+num_2
+num_4=7
+num_5=-2
+num_6=num_4+num_5
+num_7=5
+num_8=0.13
+num_9=num_7+num_8
+print (num_3)
+print (num_6)
+print (num_9)
+
+num_10=num_1>num_5
+print (num_10)
+
+# ejercicio 2
+num_1=int(input ( "Ingrese el valor 1:" ))
+num_2=int(input( "ingrese el valor 2:" ))
+num_3=num_1+num_2
+print(num_3)
+
+# ejercicio 3
+num_1=int(input (" ingrese el valor 1: "))
+num_2=int(input (" ingrese el valor 2: "))
+if (num_2==0):
+    print ( " Dato invalido ")
+    num_2=int(input (" ingrese un nuevo valor: "))
+    r_suma=num_1+num_2
+    r_resta=num_1-num_2
+    r_divi=num_1/num_2
+    r_multi=num_1*num_2
+    print ( f" el resultado de la suma es: {r_suma} " )
+    print ( f" el resultado de la resta es: {r_resta} " )
+    print ( f" el resultado de la division es: {r_divi} " )
+    print ( f" el resultado de la multiplicacion es: {r_multi} " )
+else:
+    r_suma=num_1+num_2
+    r_resta=num_1-num_2
+    r_divi=num_1/num_2
+    r_multi=num_1*num_2
+    print ( f" el resultado de la suma es: {r_suma} " )
+    print ( f" el resultado de la resta es: {r_resta} " )
+    print ( f" el resultado de la division es: {r_divi} " )
+    print ( f" el resultado de la multiplicacion es: {r_multi} " )
+
+
+
+
+#Danna Cifuentes-Laura Suarez
+
