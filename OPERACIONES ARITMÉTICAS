@@ -31,19 +31,18 @@ if (num_2==0):
     r_resta=num_1-num_2
     r_divi=num_1/num_2
     r_multi=num_1*num_2
-    print ( f" el resultado de la suma es: {r_suma} " )
-    print ( f" el resultado de la resta es: {r_resta} " )
-    print ( f" el resultado de la division es: {r_divi} " )
-    print ( f" el resultado de la multiplicacion es: {r_multi} " )
-else:
-    r_suma=num_1+num_2
-    r_resta=num_1-num_2
-    r_divi=num_1/num_2
-    r_multi=num_1*num_2
-    print ( f" el resultado de la suma es: {r_suma} " )
-    print ( f" el resultado de la resta es: {r_resta} " )
-    print ( f" el resultado de la division es: {r_divi} " )
-    print ( f" el resultado de la multiplicacion es: {r_multi} " )
+    
+else:   
+    pass
+r_suma=num_1+num_2
+r_resta=num_1-num_2
+r_divi=num_1/num_2
+r_multi=num_1*num_2
+print ( f" el resultado de la suma es: {r_suma} " )
+print ( f" el resultado de la resta es: {r_resta} " )
+print ( f" el resultado de la division es: {r_divi} " )
+print ( f" el resultado de la multiplicacion es: {r_multi} " )
+
 
 
 
